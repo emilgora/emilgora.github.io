@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://emil.ws/index.html</loc>
+    <lastmod>2019-01-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://emil.ws/images/dash.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://emil.ws/images/eth.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://emil.ws/images/btc.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://emil.ws/images/ltc.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://emil.ws/images/dcr.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://emil.ws/images/xrp.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://emil.ws/images/zec.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://emil.ws/images/bch.jpg</image:loc>
+    </image:image>
+  </url>
+</urlset>

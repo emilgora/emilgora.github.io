@@ -1,0 +1,45 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="emil.ws" resolutions="1x" timestamp="1546573050219">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="3828655594" ref="index"/>
+  </folder>
+  <folder name="fonts">
+    <file name="rubik-regular.woff" crc="268015117"/>
+    <file name="rubik-regular.eot" crc="264798409"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4286661555" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="dash.jpg" crc="4019737695" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="eth.jpg" crc="331194446" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="btc.jpg" crc="498900729" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ltc.jpg" crc="3899269108" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dcr.jpg" crc="276784787" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="xrp.jpg" crc="3817827112" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="zec.jpg" crc="467765481" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bch.jpg" crc="437459381" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4229914068" seo="true" mt="1546573022645" redirect="true"/>
+</manifest>
