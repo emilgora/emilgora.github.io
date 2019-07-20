@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: emil.ws
-Token: 64d60cfdb2edd821faba159344562b82b798660f15a4914d88bccf14d03e4ab7
