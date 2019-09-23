@@ -1,0 +1,360 @@
+/*
+	@name index
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; /*overflow-x:hidden;*/ }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: table; position: relative;  overflow: hidden;  margin-left: auto; margin-right: auto;  }
+
+#content-container > div{ position: relative; top:inherit; }
+#page_index_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+	overflow:hidden;
+}
+
+#_bg__index_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+	background:rgba(255,255,255,255);
+}
+
+
+#__p__emil_gora_s_official_unofficial_site {
+	top: 142px;
+	left: 255px;
+	width: 1380px;
+	height: 273px;
+	overflow: hidden;
+	font-family: VCR OSD Mono;
+	font-size: 90px;
+	text-align: center;
+	line-height: 90px;
+	color:#72ae95;
+}
+
+
+#__p__contact {
+	top: 421px;
+	left: 260px;
+	width: 1380px;
+	height: 134px;
+	overflow: hidden;
+	font-family: VCR OSD Mono;
+	font-size: 60px;
+	text-align: center;
+	line-height: 60px;
+	color:#72ae95;
+}
+
+
+#__p__crypto_addresses {
+	top: 669px;
+	left: 260px;
+	width: 1380px;
+	height: 134px;
+	overflow: hidden;
+	font-family: VCR OSD Mono;
+	font-size: 60px;
+	text-align: center;
+	line-height: 60px;
+	color:#72ae95;
+}
+
+
+#__p__blog {
+	top: 545px;
+	left: 260px;
+	width: 1380px;
+	height: 134px;
+	overflow: hidden;
+	font-family: VCR OSD Mono;
+	font-size: 60px;
+	text-align: center;
+	line-height: 60px;
+	color:#72ae95;
+}
+
+
+#__p__bothered_to_update_last_on_01_01_2020 {
+	top: 865px;
+	left: 265px;
+	width: 1380px;
+	height: 104px;
+	overflow: hidden;
+	font-family: VCR OSD Mono;
+	font-size: 30px;
+	text-align: center;
+	line-height: 30px;
+	color:#72ae95;
+}
+
+#page_example_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+	overflow:hidden;
+}
+
+#_bg__example_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+	background:rgba(255,255,255,255);
+}
+
+
+#back {
+	top: 156px;
+	left: 167px;
+	width: 145px;
+	height: 71px;
+	font-family: VCR OSD Mono;
+	font-size: 60px;
+	text-align: center;
+	color:#72ae95;
+}
+
+#page_blog_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+	overflow:hidden;
+}
+
+#_bg__blog_ek3 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+	background:rgba(255,255,255,255);
+}
+
+
+#back_ek1 {
+	top: 156px;
+	left: 167px;
+	width: 145px;
+	height: 71px;
+	font-family: VCR OSD Mono;
+	font-size: 60px;
+	text-align: center;
+	color:#72ae95;
+}
+
+
+#__p__blogspot__blog_emil_ws {
+	top: 621px;
+	left: 179px;
+	width: 1541.2177734375px;
+	height: 134px;
+	overflow: hidden;
+	font-family: VCR OSD Mono;
+	font-size: 60px;
+	text-align: center;
+	line-height: 60px;
+	color:#72ae95;
+}
+
+#page_crypto_addresses_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+	overflow:hidden;
+}
+
+#_bg__crypto_addresses_ek3 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+	background:rgba(255,255,255,255);
+}
+
+
+#back_ek2 {
+	top: 156px;
+	left: 167px;
+	width: 145px;
+	height: 71px;
+	font-family: VCR OSD Mono;
+	font-size: 60px;
+	text-align: center;
+	color:#72ae95;
+}
+
+
+#eth {
+	top: 517px;
+	left: 171px;
+	width: 112.5px;
+	height: 112.5px;
+}
+
+
+#btc {
+	top: 366px;
+	left: 171px;
+	width: 112.5px;
+	height: 112.5px;
+}
+
+
+#ltc {
+	top: 668px;
+	left: 171px;
+	width: 112.5px;
+	height: 112.5px;
+}
+
+
+#bch {
+	top: 819px;
+	left: 171px;
+	width: 112.5px;
+	height: 112.5px;
+}
+
+
+#__p__btc_1ggwlnef7wxu8t2qzshv5tekrd8xxrr5cs {
+	top: 408px;
+	left: 352px;
+	width: 1322px;
+	height: 89px;
+	overflow: hidden;
+	font-family: VCR OSD Mono;
+	font-size: 40px;
+	text-align: left;
+	line-height: 40px;
+	color:#72ae95;
+}
+
+
+#__p__eth_0x79c9f3359413b1c8d809fe5a594fdd5f1baf9977 {
+	top: 559px;
+	left: 352px;
+	width: 1464px;
+	height: 89px;
+	overflow: hidden;
+	font-family: VCR OSD Mono;
+	font-size: 40px;
+	text-align: left;
+	line-height: 40px;
+	color:#72ae95;
+}
+
+
+#__p__ltc_lpldckzpbydjx5dgzwdxcwq45crktybt4c {
+	top: 710px;
+	left: 352px;
+	width: 1436px;
+	height: 89px;
+	overflow: hidden;
+	font-family: VCR OSD Mono;
+	font-size: 40px;
+	text-align: left;
+	line-height: 40px;
+	color:#72ae95;
+}
+
+
+#__p__bch_qrwrh6dwalm9gcc9gzxx4ge29dvvf4a8vynjadgagy {
+	top: 861px;
+	left: 352px;
+	width: 1380px;
+	height: 89px;
+	overflow: hidden;
+	font-family: VCR OSD Mono;
+	font-size: 40px;
+	text-align: left;
+	line-height: 40px;
+	color:#72ae95;
+}
+
+#page_contact_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+	overflow:hidden;
+}
+
+#_bg__contact_ek3 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+	background:rgba(255,255,255,255);
+}
+
+
+#back_ek3 {
+	top: 156px;
+	left: 167px;
+	width: 145px;
+	height: 71px;
+	font-family: VCR OSD Mono;
+	font-size: 60px;
+	text-align: center;
+	color:#72ae95;
+}
+
+
+#__p__phone_number__586_789_5925 {
+	top: 498px;
+	left: 173px;
+	width: 1553.2177734375px;
+	height: 134px;
+	overflow: hidden;
+	font-family: VCR OSD Mono;
+	font-size: 60px;
+	text-align: center;
+	line-height: 60px;
+	color:#72ae95;
+}
+
+
+#__p__email__emilgora_protonmail_ch {
+	top: 622px;
+	left: 179px;
+	width: 1541.2177734375px;
+	height: 134px;
+	overflow: hidden;
+	font-family: VCR OSD Mono;
+	font-size: 60px;
+	text-align: center;
+	line-height: 60px;
+	color:#72ae95;
+}
+
+
+#__p__github_page {
+	top: 746px;
+	left: 179px;
+	width: 1541.2177734375px;
+	height: 134px;
+	overflow: hidden;
+	font-family: VCR OSD Mono;
+	font-size: 60px;
+	text-align: center;
+	line-height: 60px;
+	color:#72ae95;
+}
+
+
+
+/* Add your custom CSS here */
