@@ -23,21 +23,15 @@ div { position: absolute; }
 
 @font-face {
 	font-family: 'VCROSDMono';
-	src: url('VCROSDMono.svg#VCROSDMono') format('svg'),
-		 url('VCROSDMono.woff') format('woff');
+	src: url('VCROSDMono.eot');
+	src: url('VCROSDMono.eot?#iefix') format('embedded-opentype'),
+		 url('VCROSDMono.svg#VCROSDMono') format('svg'),
+		 url('VCROSDMono.woff') format('woff'),
+		 url('VCROSDMono.woff2') format('woff2');
 	font-weight: normal;
 	font-style: normal;
   }
-  
-  @font-face {
-	font-family: 'vcrmono';
-	src: url('vcrmono.eot');
-	src: url('vcrmono.eot?#iefix') format('embedded-opentype'),
-		 url('vcrmono.woff2') format('woff2');
-	font-weight: normal;
-	font-style: normal;
-  }  
-
+    
 #__p__emil_gora_s_official_unofficial_site {
 	top: 142px;
 	left: 255px;
