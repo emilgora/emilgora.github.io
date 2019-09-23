@@ -1,13 +1,5 @@
-/*
-	@name index
-*/
-/* Only edit this if you know what you are doing! */
 body { margin: 0px; padding: 0px; font-family:"Arial"; /*overflow-x:hidden;*/ }
-
-/* Only edit this if you know what you are doing! */
 img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
-
-/* Only edit this if you know what you are doing! */
 div { position: absolute; }
 
 #content-container { display: table; position: relative;  overflow: hidden;  margin-left: auto; margin-right: auto;  }
@@ -29,6 +21,22 @@ div { position: absolute; }
 	background:rgba(255,255,255,255);
 }
 
+@font-face {
+	font-family: 'VCROSDMono';
+	src: url('VCROSDMono.svg#VCROSDMono') format('svg'),
+		 url('VCROSDMono.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+  }
+  
+  @font-face {
+	font-family: 'vcrmono';
+	src: url('vcrmono.eot');
+	src: url('vcrmono.eot?#iefix') format('embedded-opentype'),
+		 url('vcrmono.woff2') format('woff2');
+	font-weight: normal;
+	font-style: normal;
+  }  
 
 #__p__emil_gora_s_official_unofficial_site {
 	top: 142px;
@@ -355,6 +363,3 @@ div { position: absolute; }
 	color:#72ae95;
 }
 
-
-
-/* Add your custom CSS here */
